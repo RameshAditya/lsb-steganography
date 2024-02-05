@@ -5,7 +5,7 @@
 ||        Course Name:   IMAGE PROCESSING            ||
 ||        Faculty:       PROF. AKILA VICTOR          ||
 ||        Project Title: STEGANOGRAPHY               ||
-||        Coded by:      ADITYA RAMESH               ||                   
+||        Coded by:      Thirumalai venkadesan               ||                   
 \\===================================================//
 
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''
